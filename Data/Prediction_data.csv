@@ -1,0 +1,11 @@
+num_passengers,sales_channel,trip_type,purchase_lead,length_of_stay,flight_hour,flight_day,route,booking_origin,wants_extra_baggage,wants_preferred_seat,wants_in_flight_meals,flight_duration
+1,Internet,RoundTrip,245,34,4,Tue,AKLDEL,New Zealand,1,1,1,5.52
+1,Internet,RoundTrip,156,19,14,Mon,AKLKUL,Malaysia,1,0,0,8.83
+1,Internet,RoundTrip,304,59,0,Wed,AKLKUL,New Zealand,1,0,1,8.83
+3,Internet,RoundTrip,32,23,15,Wed,AKLKUL,Malaysia,1,0,0,8.83
+2,Mobile,RoundTrip,160,24,22,Wed,AKLKUL,New Zealand,1,0,0,8.83
+3,Internet,RoundTrip,363,18,2,Mon,AKLKUL,Malaysia,1,1,1,8.83
+1,Internet,RoundTrip,214,31,9,Sun,AKLKUL,Malaysia,1,0,0,8.83
+1,Internet,RoundTrip,162,18,11,Tue,AKLKUL,Malaysia,1,0,0,8.83
+5,Internet,RoundTrip,97,21,10,Wed,AKLKUL,Malaysia,1,1,0,8.83
+2,Internet,RoundTrip,71,30,6,Mon,AKLKUL,New Zealand,1,1,0,8.83
